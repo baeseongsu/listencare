@@ -6,8 +6,10 @@
 
 ListenCare is accepted to [Learning to Listen: ICML 2026 Workshop on Machine Learning for Audio](https://mlforaudioworkshop.github.io/).
 
-Seongsu Bae\*, Chaeeun Sim\*, Sungbae Park, Edward Choi  
-\* Equal contribution
+Seongsu Bae\*<sup>1</sup>, Chaeeun Sim\*<sup>1</sup>, Sungbae Park<sup>2</sup>, Edward Choi<sup>1</sup>  
+\* Equal contribution  
+<sup>1</sup>KAIST AI  
+<sup>2</sup>Seoul National University Boramae Medical Center
 
 ## Updates
 
