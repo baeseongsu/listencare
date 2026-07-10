@@ -13,6 +13,7 @@ Seongsu Bae\*<sup>1</sup>, Chaeeun Shim\*<sup>1</sup>, Sungbae Park<sup>2</sup>,
 
 ## Updates
 
+- **[2026/07/10]** The [camera-ready version of ListenCare](https://mlforaudioworkshop.github.io/accepted_submissions_2026/CameraReadys%204-83/72/CameraReady/main.pdf) is now available.
 - **[2026/06/03]** ListenCare is accepted to ICML 2026 Workshop on Machine Learning for Audio.
 
 ## Release
