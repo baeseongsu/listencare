@@ -11,8 +11,14 @@ Seongsu Bae\*<sup>1</sup>, Chaeeun Shim\*<sup>1</sup>, Sungbae Park<sup>2</sup>,
 <sup>1</sup>KAIST AI  
 <sup>2</sup>Seoul National University Boramae Medical Center
 
+## Paper
+
+- [Camera-ready PDF](https://mlforaudioworkshop.github.io/accepted_submissions_2026/CameraReadys%204-83/72/CameraReady/main.pdf)
+- [ICML 2026 Workshop accepted submissions](https://mlforaudioworkshop.github.io/)
+
 ## Updates
 
+- **[2026/07/10]** The camera-ready version of ListenCare is now available.
 - **[2026/06/03]** ListenCare is accepted to ICML 2026 Workshop on Machine Learning for Audio.
 
 ## Release
@@ -21,4 +27,4 @@ Code and dataset will be released soon.
 
 ## Citation
 
-Citation information will be added once the public paper version is available.
+Citation information will be added once a stable proceedings or BibTeX entry is available.
